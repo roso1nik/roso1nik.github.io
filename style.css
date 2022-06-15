@@ -1,7 +1,6 @@
 .markdown-body > h1:first-of-type {
   display: none !important;
 }
-h1 {color: red !important;}
 .footer {
   display: none !important;
 }
