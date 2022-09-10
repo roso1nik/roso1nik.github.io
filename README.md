@@ -2,7 +2,7 @@
 
 # Taplink @roso1nik
 
-v1.3
+v1.3.1
 (текстовая версия)
 
 - [Сайт для сдачи ОГЭ и ЕГЭ](https://roso1nik.github.io/gia-site-copy/)
