@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fc-spar/static/css/main.966d3791.css",
-    "main.js": "/fc-spar/static/js/main.fcd09553.js",
-    "index.html": "/fc-spar/index.html",
-    "main.966d3791.css.map": "/fc-spar/static/css/main.966d3791.css.map",
-    "main.fcd09553.js.map": "/fc-spar/static/js/main.fcd09553.js.map"
+    "main.css": "/static/css/main.5cdf2cf3.css",
+    "main.js": "/static/js/main.efcff277.js",
+    "index.html": "/index.html",
+    "main.5cdf2cf3.css.map": "/static/css/main.5cdf2cf3.css.map",
+    "main.efcff277.js.map": "/static/js/main.efcff277.js.map"
   },
   "entrypoints": [
-    "static/css/main.966d3791.css",
-    "static/js/main.fcd09553.js"
+    "static/css/main.5cdf2cf3.css",
+    "static/js/main.efcff277.js"
   ]
 }
